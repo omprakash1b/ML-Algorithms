@@ -13,6 +13,8 @@ Logistic Regression
 
 Linear Regression
 
+Naive Bayes 
+
 Easy-to-read, modular code for each algorithm.
 
 Includes accuracy calculation and result visualization (where applicable).
